@@ -18,7 +18,7 @@ Create an IAM role with the following properties:
 
 
 
-#### 2. Create the IAM role:
+### 2. Create the IAM role:
 1. In IAM, go to "Roles" and click "Create role."
 2. Choose "Lambda" as the service.
 3. Attach your custom policy (e.g., "DataEngLambdaS3CWGluePolicy").
